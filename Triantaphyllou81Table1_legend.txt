@@ -1,0 +1,5 @@
+ *Host races 1-4 are characterized  by their ability to reproduce on cotton (cv. Deltapine 16) and tobacco (cv. NC 95) as follows: race 1, cotton  --, tobacco --;  race 2, cotton --, tobacco + ; race 3, cotton + , tobacco --; race 4, cotton + , tobacco + (13). Tests on host specificity have  been clone in the laboratory of J. N.Sasser, Department of Plant Pathology, North Carolina State University.
+
+(1) Populations are designated by a code number, or a letter-number combination, and the origin. The same designations are used for cross-reference purposes in all publications of the International Meloidogyne project. "E" numbers indicate populations for which a great deal of ecological data is also available.
+
+(2) Populations  designated as "Africa" have orignated from countries of Africa that are located west of Niger and Nigeria.             
